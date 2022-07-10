@@ -9,7 +9,7 @@ const config = {
     ignore_traits: ['date'], 
     sqlite_file_name: 'database.sqlite',
     ga: 'G-BW69Z04YTP',
-    main_og_image: 'https://gateway.thirdweb.dev/ipfs/QmdvEArvawVbtM8AuiCdjtKaFsSxj2eKyER8294RTJQHiq/0.gif',
+    main_og_image: 'https://gateway.thirdweb.dev/ipfs/QmaeZ1mTfBraS2APXm3iZsgjSt1VQwDJRN3rpScyZt6PBk/0.png',
     item_path_name: 'FireFlyz',
     page_item_num: 60,
     content_image_is_video: false,
