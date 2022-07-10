@@ -110,7 +110,7 @@ body {
 .brand, .brand:hover {
   font-family: var(--font-family-title);
   font-style: italic;
-  color: var(--primary);
+  color: var(#E5E7EB);
   text-decoration: none;
   position: relative;
 }
