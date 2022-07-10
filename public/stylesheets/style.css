@@ -16,7 +16,7 @@
   --white: #FFFFFF;
   --gray: var(--gray-400);
   --black: #000000;
-  --primary: #2374FF;
+  --primary: #000000;
   --primary-dark: #1D1B28;
   --contrast: #10EB00;
   --danger: #EF4444;
@@ -110,7 +110,7 @@ body {
 .brand, .brand:hover {
   font-family: var(--font-family-title);
   font-style: italic;
-  color: var(--primary);
+  color: var(--contrast);
   text-decoration: none;
   position: relative;
 }
