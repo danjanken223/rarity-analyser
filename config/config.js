@@ -3,7 +3,7 @@ const config = {
     app_description: 'The WeStreamers are a collection of 10,420 unique avatars that represent the community of streamers around the world and grants each owner exclusive perks on the WeStream App.',
     collection_file_name: 'collection.json',
     collection_contract_address: '0xaf2BdFe4076DFB3fBA171037fA0083460bE4b126',
-    collection_name: 'WeStreamer',0
+    collection_name: 'WeStreamer',
     collection_description: 'The WeStreamers are a collection of 10,420 unique avatars that represent the community of streamers around the world and grants each owner exclusive perks on the WeStream App.',
     collection_id_from: 0,
     ignore_traits: ['date'], 
