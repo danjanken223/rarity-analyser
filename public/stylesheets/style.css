@@ -16,9 +16,9 @@
   --white: #FFFFFF;
   --gray: var(--gray-400);
   --black: #000000;
-  --primary: #3c50c0;
+  --primary: #FF0000;
   --primary-dark: #1D1B28;
-  --contrast: #10EB00;
+  --contrast: #8B00FF;
   --danger: #EF4444;
   --red: #F87171;
   --semi-white: rgba(255, 255, 255, 0.2);
@@ -36,8 +36,8 @@
   --size-8: 8rem;
   --size-9: 12rem;
   --content-width: 60rem;
-  --font-family-title: 'Space Mono',monospace,-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
-  --font-family-body: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
+  --font-family-title: system-ui;
+  --font-family-body: system-ui;
   --font-size-xs: .409rem;
   --font-size-sm: .6875rem;
   --font-size-base: .8125rem;
