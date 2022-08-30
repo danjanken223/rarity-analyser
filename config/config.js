@@ -10,7 +10,7 @@ const config = {
     sqlite_file_name: 'database.sqlite',
     ga: 'G-BW69Z04YTP',
     main_og_image: 'https://ipfs.io/ipfs/QmQ2yyh9zSUUqd8Aw1ZG24N2HjTYrWryXhr8TvDWLJKfh5/4001.png',
-    item_path_name: 'Dogechain Apes',
+    item_path_name: 'DogechainApes',
     page_item_num: 60,
     content_image_is_video: false,
     content_image_frame: 'circle', // circle, rectangle
